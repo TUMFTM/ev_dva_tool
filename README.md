@@ -157,7 +157,7 @@ As a help common input units and there corresponding output units are listed in 
 | M. Dubarry et al. | Best practices for incremental capacity analysis                                                                    | 2022 | https://doi.org/10.3389/fenrg.2022.1023555     | ICA Application    |
 
 ## License
-TO BE DEFINED!
+ GNU GENERAL PUBLIC LICENSE
 
 ## Project status
 This repository includes working implementations of the DVA tool for MATLAB and Python (2022-02-23).
